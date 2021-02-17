@@ -4,7 +4,6 @@
     display: table;
     box-sizing: border-box;
   }
-
 .main{
     margin: auto;
     background-color: rgb(250, 250, 244);
@@ -13,12 +12,9 @@
 .logo{
     display: inline-block;
 }
-
-
 .topbar{
     background-color: black;
     color: rgb(250, 250, 244);
-
 }
 .topbar-links{
     background-color: black;
@@ -36,7 +32,6 @@ li:hover{
     justify-content: center;
     font-weight: bold;
 }
-
  li{
     display: inline;
     list-style-type: none;
